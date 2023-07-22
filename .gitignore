@@ -1,0 +1,4 @@
+*.pyc
+.atom
+__pycache__
+virnv
